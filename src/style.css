@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fromHolder {
+    text-align: center;
+    width: 500px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px black;
+}
+
+form {
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+input {
+    padding: 5px;
+    width: 300px;
+
+}
